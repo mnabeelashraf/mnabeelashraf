@@ -58,7 +58,7 @@ https://github.com/mnabeelashraf/SmartDormX 🏠 SmartDormX — AI Security Syst
 - **Stack:** Python · OpenCV · DeepFace · Flask · SQLite
 - 📄 *Paper submitted to IEEE Access 2026*
 
-### ⚖️ LexAI — Legal RAG Chatbot
+###https://github.com/mnabeelashraf/SmartDormX ⚖️ LexAI — Legal RAG Chatbot
 > Retrieval-Augmented Generation chatbot for legal document analysis
 - ✅ Processes 57+ legal documents
 - ✅ Context-aware answers using LLaMA3
