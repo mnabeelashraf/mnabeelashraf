@@ -66,11 +66,13 @@ production-ready AI applications.
 - ✅ ChromaDB vector store for semantic search
 - **Stack:** LangChain · LLaMA3 · ChromaDB · Ollama · Streamlit
 
-### 🎨 AI Art Generator
+### 🎨 [AI Art Generator](https://github.com/mnabeelashraf/AI_Art_Generator)
+🔗 **Repository:** https://github.com/mnabeelashraf/AI_Art_Generator
 > Generative AI system for artistic image synthesis
 - **Stack:** StyleGAN2-ADA · Python · PyTorch
 
-### 🤖 RAG Agentic Bot
+### 🤖 [RAG Agentic Bot](https://github.com/mnabeelashraf/RAG-Agentic-Bot)
+🔗 **Repository:** https://github.com/mnabeelashraf/RAG-Agentic-Bot
 > Intelligent agentic system with RAG capabilities
 - **Stack:** LangChain · Python · ChromaDB
 
