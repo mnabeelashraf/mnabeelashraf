@@ -50,7 +50,7 @@ production-ready AI applications.
 
 ## 🚀 Featured Projects
 
-### 🏠 SmartDormX — AI Security System
+🏠 SmartDormX — AI Security System
 > Real-time face recognition system for student dormitory security
 - ✅ 80%+ face recognition accuracy
 - ✅ 100% unauthorized access detection rate
