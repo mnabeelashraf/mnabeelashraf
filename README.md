@@ -50,15 +50,16 @@ production-ready AI applications.
 
 ## 🚀 Featured Projects
 
-https://github.com/mnabeelashraf/SmartDormX 🏠 SmartDormX — AI Security System
+### 🏠 [SmartDormX — AI Security System](https://github.com/mnabeelashraf/SmartDormX )
+🔗 **Repository:** https://github.com/mnabeelashraf/SmartDormX 
 > Real-time face recognition system for student dormitory security
 - ✅ 80%+ face recognition accuracy
 - ✅ 100% unauthorized access detection rate
 - ✅ Real-time alerts with automated logging
-- **Stack:** Python · OpenCV · DeepFace · Flask · SQLite
+- **Stack:** Python · OpenCV · dlib ResNet · Flask · SQLite
 - 📄 *Paper submitted to IEEE Access 2026*
 
-###https://github.com/mnabeelashraf/SmartDormX ⚖️ LexAI — Legal RAG Chatbot
+### ⚖️ LexAI — Legal RAG Chatbot
 > Retrieval-Augmented Generation chatbot for legal document analysis
 - ✅ Processes 57+ legal documents
 - ✅ Context-aware answers using LLaMA3
