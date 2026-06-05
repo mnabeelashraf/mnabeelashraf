@@ -59,12 +59,14 @@ production-ready AI applications.
 - **Stack:** Python · OpenCV · dlib ResNet · Flask · SQLite
 - 📄 *Paper submitted to IEEE Access 2026*
 
-### ⚖️ LexAI — Legal RAG Chatbot
+### ⚖️ [LexAI — Legal RAG Chatbot](https://github.com/mnabeelashraf/LEXAI-Chatbot)
+🔗 **Repository:** https://github.com/mnabeelashraf/LEXAI-Chatbot
 > Retrieval-Augmented Generation chatbot for legal document analysis
-- ✅ Processes 57+ legal documents
-- ✅ Context-aware answers using LLaMA3
-- ✅ ChromaDB vector store for semantic search
-- **Stack:** LangChain · LLaMA3 · ChromaDB · Ollama · Streamlit
+- ✅ Built an AI-powered legal chatbot using RAG (Retrieval Augmented Generation)
+- ✅ Indexed 50+ Pakistani legal documents using ChromaDB vector database
+- ✅ Integrated LLaMA 3.3 70B via Groq API for fast, accurate responses
+- ✅ Developed REST API backend using Flask and frontend using HTML/CSS/JS
+- **Stack:** Python · LangChain · LLaMA3 · ChromaDB · Groq · Flask · JavaScript
 
 ### 🎨 [AI Art Generator](https://github.com/mnabeelashraf/AI_Art_Generator)
 🔗 **Repository:** https://github.com/mnabeelashraf/AI_Art_Generator
