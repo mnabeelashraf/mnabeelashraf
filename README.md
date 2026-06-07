@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Final-year CS Student @ PAF-IAST, Pakistan &nbsp;|&nbsp;
+  🎓 Computer Science Graduate @ PAF-IAST, Pakistan &nbsp;|&nbsp;
   🔬 Researching RAG Systems & AI Security &nbsp;|&nbsp;
   🌍 Seeking MS Scholarship 2026
 </p>
