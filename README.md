@@ -118,7 +118,7 @@ production-ready AI applications.
   <a href="mailto:nabeelashraf812@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://researchgate.net/profile/Nabeel-Ashraf-xxxxxx](https://www.researchgate.net/profile/M-Nabeel-Ashraf?ev=hdr_xprf)">
+  <a href="[https://www.researchgate.net/profile/M-Nabeel-Ashraf?ev=hdr_xprf]">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </p>
