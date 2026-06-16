@@ -19,11 +19,13 @@ My work spans **Large Language Models**, **Retrieval-Augmented Generation**,
 and **Computer Vision** — with hands-on experience deploying
 production-ready AI applications.
 
-- 🔭 Currently working on: **SmartDormX** — Real-time face recognition
+- 🔭 Built: **SmartDormX** — Real-time face recognition
   security system for student dormitories
-- 🧠 Also building: **LexAI** — RAG-powered legal chatbot using LLaMA3
-- 📄 Research: SmartDormX paper — *preparing for arXiv submission*
-- 💼 Former Generative AI Intern @ **ITSOLERA**
+  *(81.0% accuracy · 100% unknown person detection · 1,700+ events logged)*
+- 🧠 Built: **LexAI** — RAG-powered legal chatbot using LLaMA3
+  *(50+ Pakistani legal documents · ChromaDB · Groq API)*
+- 📄 Research: SmartDormX — *IEEE Access format · arXiv submission in progress*
+- 💼 Former Generative AI Intern @ **ITSOLERA PVT LTD**
 - 📬 Reach me: **nabeelashraf812@gmail.com**
 
 ---
@@ -50,32 +52,50 @@ production-ready AI applications.
 
 ## 🚀 Featured Projects
 
-### 🏠 [SmartDormX — AI Security System](https://github.com/mnabeelashraf/SmartDormX )
-🔗 **Repository:** https://github.com/mnabeelashraf/SmartDormX 
-> Real-time face recognition system for student dormitory security
-- ✅ 80%+ face recognition accuracy
-- ✅ 100% unauthorized access detection rate
-- ✅ Real-time alerts with automated logging
-- **Stack:** Python · OpenCV · dlib ResNet · Flask · SQLite
-- 📄 *Paper submitted to IEEE Access 2026*
+### 🏠 [SmartDormX — AI-Powered Hostel Security System](https://github.com/mnabeelashraf/SmartDormX)
+> Real-time face recognition and anomaly detection framework
+> for student dormitory security — Final Year Project @ PAF-IAST
 
-### ⚖️ [LexAI — Legal RAG Chatbot](https://github.com/mnabeelashraf/LEXAI-Chatbot)
-🔗 **Repository:** https://github.com/mnabeelashraf/LEXAI-Chatbot
-> Retrieval-Augmented Generation chatbot for legal document analysis
-- ✅ Built an AI-powered legal chatbot using RAG (Retrieval Augmented Generation)
-- ✅ Indexed 50+ Pakistani legal documents using ChromaDB vector database
-- ✅ Integrated LLaMA 3.3 70B via Groq API for fast, accurate responses
-- ✅ Developed REST API backend using Flask and frontend using HTML/CSS/JS
+- ✅ **81.0% mean recognition accuracy** (range: 79.3%–81.9%)
+- ✅ **100% unknown person detection** across 180 controlled test subjects
+- ✅ **1,700+ recognition events** logged in live corridor deployment
+- ✅ **31 enrolled individuals · 372 facial images** custom dataset
+- ✅ Rule-based anomaly detection (unknown persons · low confidence · late-night)
+- ✅ Hybrid dual-database: SQLite (local) + Supabase PostgreSQL (cloud)
+- ✅ Full web-based admin portal + student portal (17 modules)
+- ✅ CPU-only deployment — zero GPU requirement — zero infrastructure cost
+- **Stack:** Python · OpenCV · dlib ResNet · face_recognition · Flask · SQLite · Supabase · JavaScript
+- 📄 *Research paper prepared in IEEE Access format — arXiv submission in progress*
+
+---
+
+### ⚖️ [LexAI — Pakistani Legal AI Chatbot](https://github.com/mnabeelashraf/LEXAI-Chatbot)
+> RAG-based legal assistant that answers questions about
+> Pakistani law using 50+ indexed legal documents
+
+- ✅ 50+ Pakistani legal documents indexed (Constitution, PPC, Family Law, Labor Law)
+- ✅ LLaMA 3.3 70B via Groq API for fast, accurate response generation
+- ✅ ChromaDB vector store for semantic search and retrieval
+- ✅ LangChain RAG pipeline with source citation for every answer
+- ✅ Multi-session chat with dark/light mode toggle
 - **Stack:** Python · LangChain · LLaMA3 · ChromaDB · Groq · Flask · JavaScript
 
+---
+
 ### 🎨 [AI Art Generator](https://github.com/mnabeelashraf/AI_Art_Generator)
-🔗 **Repository:** https://github.com/mnabeelashraf/AI_Art_Generator
-> Generative AI system for artistic image synthesis
-- **Stack:** StyleGAN2-ADA · Python · PyTorch
+> Generative AI system for photorealistic face image synthesis
+> using StyleGAN2-ADA — deployed via Flask web application
+
+- ✅ One-click photorealistic face generation in-browser
+- ✅ CPU-only inference pipeline — no GPU dependency
+- **Stack:** StyleGAN2-ADA · Python · PyTorch · Flask
+
+---
 
 ### 🤖 [RAG Agentic Bot](https://github.com/mnabeelashraf/RAG-Agentic-Bot)
-🔗 **Repository:** https://github.com/mnabeelashraf/RAG-Agentic-Bot
-> Intelligent agentic system with RAG capabilities
+> Intelligent agentic system with Retrieval-Augmented
+> Generation capabilities for document-grounded responses
+
 - **Stack:** LangChain · Python · ChromaDB
 
 ---
@@ -98,7 +118,7 @@ production-ready AI applications.
   <a href="mailto:nabeelashraf812@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://researchgate.net/profile/YOUR-PROFILE">
+  <a href="https://researchgate.net/profile/Nabeel-Ashraf-xxxxxx">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </p>
